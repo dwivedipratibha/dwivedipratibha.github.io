@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    
+}
+
+#form{
+    text-align: justify;
+    font-size: large;
+}
+
+.bg{
+    background-color: rgb(248, 231, 210);
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 4% ;
+    padding: 5%;
+    border-radius: 5%;
+}
